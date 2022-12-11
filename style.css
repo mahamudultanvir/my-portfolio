@@ -1,0 +1,90 @@
+.orange{
+    color: orange;
+}
+body{
+    font-family: 40px;
+    margin: 5%;
+}
+h1{
+    font-size: 40px;
+    
+}
+h2{
+    font-size: 40px;
+}
+.hafe-with {
+    width: 50% 
+    
+    
+}
+.hafe-with img{
+    width: 70%;
+    
+}
+.top-baneraria{
+    display:flex
+
+}
+.hafe-with{
+    width: 70% 70%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato );
+    padding: 10px 40px;
+    color: wheat;
+    font-weight : 700;
+    border-radius : 6px;
+    
+        
+    }
+
+.dream-bigaria{
+    display:flex 
+}
+.top-baneraria{
+    background-image: url(image2/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 60px
+}
+
+
+.experiences-box{
+    display: flex;
+    
+        
+        padding-bottom: 150px;
+    
+}
+.web-developer{
+    width: 40% ;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+border-radius: 10px;
+    
+}
+.baby-web{
+    width: 40% ;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+         
+} 
+.web-developer{
+    border-left: 7px solid;
+    background-image:linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}   
+.baby-web{
+    border-left: 7px solid;
+    background-image:linear-gradient( salmon, green);
+    border-image-slice: 1;
+}
+.footer{
+    text-align: center;
+    
+}
+
